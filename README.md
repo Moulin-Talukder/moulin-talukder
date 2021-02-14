@@ -14,7 +14,8 @@
 <details>
   <summary>GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=moulin-talukder" />
+ <img src="https://github-readme-stats.vercel.app/api?username=moulin-talukder&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
 
 </details>
 <br/>
