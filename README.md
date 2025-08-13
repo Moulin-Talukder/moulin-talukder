@@ -6,10 +6,12 @@
 <!-- ## I'm a Husband, Father, Developer, and Teacher!! -->
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m currently learning Vue.js
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to do writing, singing and coding
+Here’s your updated version with an **SQA-focused twist**:
+
+* 🌱 I’m currently learning advanced testing tools & automation frameworks
+* 👯 I’m looking to collaborate with developers and QA teams on quality-focused projects
+* 🥅 2025 Goal: Contribute to open-source QA/testing projects and improve automation skills
+* ⚡ Fun fact: I enjoy exploring new tech, solving bugs, and writing clear test cases
 
 <!-- states -->
   <h3>GitHub Stats</h3>
