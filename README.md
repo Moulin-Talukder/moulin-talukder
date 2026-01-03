@@ -6,7 +6,6 @@
 <!-- ## I'm a Husband, Father, Developer, and Teacher!! -->
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-Here’s your updated version with an **SQA-focused twist**:
 
 * 🌱 I’m currently learning advanced testing tools & automation frameworks
 * 👯 I’m looking to collaborate with developers and QA teams on quality-focused projects
