@@ -1,86 +1,80 @@
-### Hi there, I'm Moulin Talukder 👋
+<h1 align="center">Hi there, I'm Moulin Talukder 👋</h1>
+<h3 align="center">Full Stack Developer · PHP & Laravel · React / Next.js</h3>
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+<p align="center">
+  <a href="https://web-moulin.com"><img src="https://img.shields.io/badge/Portfolio-web--moulin.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/moulin-talukder"><img src="https://img.shields.io/badge/LinkedIn-moulin--talukder-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:moulin.talukder07@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<!-- ## I'm a Husband, Father, Developer, and Teacher!! -->
+---
 
-<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
+### 🧑‍💻 About Me
 
-* 🌱 I’m currently learning advanced testing tools & automation frameworks
-* 👯 I’m looking to collaborate with developers and QA teams on quality-focused projects
-* 🥅 2025 Goal: Contribute to open-source QA/testing projects and improve automation skills
-* ⚡ Fun fact: I enjoy exploring new tech, solving bugs, and writing clear test cases
+Full Stack Developer with **4+ years** of experience designing, building and maintaining scalable web applications with **PHP and Laravel**. I focus on clean REST APIs, MySQL performance, application security and smooth **React / Next.js** integration.
 
-<!-- states -->
-  <h3>GitHub Stats</h3>
+* 💼 Currently working as a **Full Stack Developer** at **The Soft King Limited**
+* 🔐 Building secure auth, role-based access control & payment / SMS gateway integrations (OWASP-minded)
+* ⚡ Optimizing MySQL with slow-query analysis, `EXPLAIN`, indexing & schema improvements
+* 🧩 Using Laravel queues, events & caching to keep production apps fast and stable
+* 👨‍🏫 Reviewing code and mentoring junior developers on standards & Git workflow
+* 🤖 Shipping faster with AI-assisted tools (Cursor, Claude Code, GitHub Copilot) — always reviewed for correctness & security
+* 🎓 M.Sc. in CSE — Jahangirnagar University
+* 📍 Dhaka, Bangladesh
 
- <img src="https://github-readme-stats.vercel.app/api?username=moulin-talukder&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+---
 
-<br/>
+### 🛠️ Tech Stack
 
-### Spotify Playing 🎧
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nestjs,ts" />
+</p>
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
+</p>
 
-<!-- ### Connect with me:
+**Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+</p>
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://www.facebook.com/moulin.oronno" />][facebook] -->
+**DevOps & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux,vscode" />
+</p>
 
-<br />
+**Testing:** PHPUnit · Pest · Jest  
+**API & Security:** RESTful API Design · Sanctum / Passport / JWT · RBAC · OWASP Top 10
 
-### Languages and Tools:
+---
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+### 🚀 Featured Projects
 
-<br />
-<br />
+| Project | Description | Live |
+|---|---|---|
+| 🚌 Bus Booking System | Online ticket booking platform | [View](http://web-moulin.com/busbooking/) |
+| 🛒 E-commerce Platform | Full-featured online store | [View](http://web-moulin.com/ecommerce/) |
+| 💳 Tcash | Digital payment system | [View](http://web-moulin.com/tcash/) |
+| 🎟️ Lottery Platform | Online lottery management | [View](http://web-moulin.com/lottery/) |
+| 🏥 Hospital Management | Hospital operations & records | [View](http://web-moulin.com/hospital/public/) |
+| 💊 POS & Inventory | Pharmacy POS & inventory system | [View](https://my.web-moulin.com/pos-inventory/) |
 
-<!-- ---
+---
 
-### 📺 Latest YouTube Videos
+### 📊 GitHub Stats
 
- YOUTUBE:START
-- [BEST Way to Build a DISCORD Slash Command BOT with Cloudflare Workers!! Deploy FREE!](https://www.youtube.com/watch?v=xRt9PwphmY8)
-- [Try THIS GitHub 1 Second Shortcut Trick | VS Code in Browser!! (github1s)](https://www.youtube.com/watch?v=AXXwgJJVeiQ)
-- [Top [20] Web Dev Videos You NEED to Watch! | STACKr News 2021 (February Week 1)](https://www.youtube.com/watch?v=b6rMI_h49fo)
-- [300+ FREE Developer Resources (2021) | Software & Web Development](https://www.youtube.com/watch?v=WS4CjQx4IUA)
-- [Top 20 Web Dev Videos You NEED to Watch! | STACKr News 2021 (January Week 4)](https://www.youtube.com/watch?v=GgVN0e0Trns)
-YOUTUBE:END
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Moulin-Talukder&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moulin-Talukder&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-➡️ [more videos...](https://youtube.com/codestackr)
+---
 
---- -->
+### 🤝 Let's Connect
 
+I'm open to collaborating on Laravel / React projects, API design and performance work. Feel free to reach out!
 
-
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+📧 **moulin.talukder07@gmail.com** · 🌐 **[web-moulin.com](https://web-moulin.com)**
