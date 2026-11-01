@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me
 
-Full Stack Developer with **4+ years** of experience designing, building and maintaining scalable web applications with **PHP and Laravel**. I focus on clean REST APIs, MySQL performance, application security and smooth **React / Next.js** integration.
+Full Stack Developer with **5+ years** of experience designing, building and maintaining scalable web applications with **PHP and Laravel**. I focus on clean REST APIs, MySQL performance, application security and smooth **React / Next.js** integration.
 
 * 💼 Currently working as a **Full Stack Developer** at **The Soft King Limited**
 * 🔐 Building secure auth, role-based access control & payment / SMS gateway integrations (OWASP-minded)
